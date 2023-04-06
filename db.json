@@ -6,6 +6,6 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "users":[
-    {"id":1,"email":"mehrapankaj332@gmail.com","password":"12345","firstName":"Pankaj","lastName":"Mehra","Mobile":"9649600346"}
-]
+    {"id":1,"email":"mehrapankaj332@gmail.com","password":"12345","fullname":"Pankaj mehra","Mobile":"9649600346"}
+  ]
 }
